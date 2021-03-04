@@ -8,7 +8,7 @@ import java.util.StringJoiner;
 /**
  * Class that defines the stored procedures for the database
  */
-public class H2StoredProcedures {
+public class  H2StoredProcedures {
     /**
      * Represents a stored-procedure that gets the total of all paid orders of a customer
      * @param conn Connection to the database
