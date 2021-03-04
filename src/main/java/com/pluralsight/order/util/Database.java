@@ -18,7 +18,6 @@ public class Database {
     private String user = "sa";
     private String password = "";
 
-
     /**
      * Private constructor
      */
