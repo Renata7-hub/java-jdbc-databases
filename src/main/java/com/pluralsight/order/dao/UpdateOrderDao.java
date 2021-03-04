@@ -26,7 +26,7 @@ public class UpdateOrderDao {
 
     /**
      * Updates the status of an order
-     * @param paramsDto Object with the parameters for the operation
+     * @param paramsDto  Object with the parameters for the operation
      * @return Number of affected rows
      */
     public int updateOrderStatus(ParamsDto paramsDto) {
